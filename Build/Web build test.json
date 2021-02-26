@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ENG395Final",
+"dataUrl": "Web build test.data.unityweb",
+"asmCodeUrl": "Web build test.asm.code.unityweb",
+"asmMemoryUrl": "Web build test.asm.memory.unityweb",
+"asmFrameworkUrl": "Web build test.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
